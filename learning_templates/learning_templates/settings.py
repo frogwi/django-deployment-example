@@ -26,7 +26,7 @@ SECRET_KEY = '#uget^ty5(4q@sxs)(mwy0acvwconk@+2bdbq=y5d@x12jy7x-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['frogwi.pythonanywhere.com',]
 
 
 # Application definition
